@@ -1,0 +1,8 @@
+Package: camayak
+Title: Make music about PSFK
+Version: 0.1
+Authors@R: "Thomas Levine <_@thomaslevine.com> [aut, cre]"
+Description: Music video
+Depends: R (>= 3.1.2), tuneR (== 0.4-1), zoo, doParallel, foreach
+License: AGPL
+LazyData: true

@@ -1,0 +1,16 @@
+You need old tuneR.
+http://cran.r-project.org/src/contrib/Archive/tuneR/tuneR_0.4-1.tar.gz
+
+Put in a diminished seven (vii*)?
+Like, in the key of C, the diminished seven would be B, D, F.
+
+* D is in the five chord of C, so it's a segway.
+* D is a minor third.
+
+Thomas Levine and Stanton Burton
+
+sudo mount -t ramfs -o size=1g ramfs /tmp
+
+
+
+

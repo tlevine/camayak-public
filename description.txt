@@ -1,0 +1,55 @@
+This is a plot about readership of publications that are hosted on
+Camayak's platform. We plot various indicators of readership over time.
+
+The time dimension is represented in the music as time.
+The music is composed of verses, each verse corresponding to a season.
+Each season is broken into four equal parts (approximately 23 days each),
+and each verse is correspondingly broken into four "phrases".
+
+We distinguish between the summer season and all other seasons in these ways.
+
+* Chord progression (i v i III versus I V vi IV)
+* Presence of drums (off during the summer)
+
+The commenting on websites and assignment of tasks to writers affects
+the main rhythms and the use of drums.
+The rhythm for the melody is based on averaged data across all
+publications and dates for the particular season. There are two
+underlying tracks, and the data affect how fast the rhythm;
+one of them gets faster when more comments are written on the
+publications, and the other gets faster when more assignments are created.
+Similarly, the bass drum turns on when there are lots of comments,
+and the hi-hat turns on when there are lots of assignments.
+
+The rhythm is also based on the number of pitches submitted;
+measures get more notes added at the end of the measure when
+more pitches are submitted. (If a lot of pitches are submitted,
+notes eventually get added to the beginning of each measure too.)
+
+Pitches of all notes are based on the data for the particular
+publication during the particular 23-day section of the particular
+season; pitches are higher when more assignments were created.
+
+The time dimension also is represented in the video, as the x-axis.
+The season's name is shown in text, and the background color changes
+to grey in the summer.
+
+The y-axis in the video is the activity generated per day. Activity
+per day is plotted incrementally---in 23-day sections and one organization
+at a time. The name of the present organization is written towards the
+bottom-left of the screen, and the curve for that organization is shown
+in front of all of the other curves.
+
+At the right end of the curves are plotted an alternating circle and
+triangle. Their size is proportional to the number of pitches submitted
+(circle) and users registered (triangle) for the particular date.
+
+Activity is low during the summers and very low at the beginning and ends
+of the song. Low activity during the summers occurs because three of the
+publications are student publications, which have much less activity when
+school is out. Low activity at the beginning occurs because the
+publications had not yet begun using Camayak, and low activity occurs at
+the end because we are using data that were exported a couple months ago.
+
+There is a weekly trend of high activity on weekdays and low activity
+during the week.
